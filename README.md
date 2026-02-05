@@ -1,56 +1,44 @@
-<div align="center">
+# Bálint.
+### iOS Developer & Student.
 
-  # Hi, I'm Bálint! 👋
+> "Designed by Bálint."
 
-  ### iOS Developer | SwiftUI Enthusiast
-
-  <p>
-    I am passionate about building clean, user-friendly mobile applications within the Apple ecosystem.
-    <br>
-    Currently, I am pursuing a BSc in <b>Computer Science Engineering</b> with a specialization in <b>Web and Mobile App Development</b> at the university in Kecskemét, Hungary. 🎓
-  </p>
-
-
-</div>
+Currently pursuing a BSc in **Computer Science Engineering** (Web & Mobile Specialization).
+Passionate about **SwiftUI**, **Combine**, and clean architecture.
 
 ---
 
----
+### Tech Specs
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift-000000?style=flat-square&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=306998" /> <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS_SDK-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> </p>
 
-  ### 🛠️ Tech Stack
+### Current Focus
 
-  Tools and technologies I use on a daily basis:
+**100 Days of SwiftUI**
+*Building a robust foundation in iOS development.*
 
-  <p>
-    <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-    <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=blue" alt="SwiftUI" />
-    <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </p>
-
-</div>
-
----
+| Progress | Course | Status |
+| :--- | :--- | :--- |
+| 🚀 | **Paul Hudson's 100 Days** | *In Progress* |
+| 🎓 | **University Studies** | *Active* |
 
 ---
 
-### 📚 What I'm Learning
+### Activity
 
-I am currently taking Paul Hudson's famous **100 Days of SwiftUI** challenge to build a rock-solid foundation in iOS development.
-
-- 🎓 **Course:** [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)
-- 🚀 **Focus:** Swift fundamentals, SwiftUI views, State management, and iOS architecture.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
+<p align="left">
   <a href="https://github.com/KomY28">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KomY28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Github Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomY28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=KomY28&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
   </a>
-</div>
+</p>
+
+<br>
+<p align="left">
+  <a href="https://linkedin.com/in/TE_LINKEDIN_PROFILOD">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
