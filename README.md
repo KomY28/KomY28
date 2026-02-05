@@ -36,9 +36,4 @@ Passionate about **SwiftUI**, **Combine**, and clean architecture.
   </a>
 </p>
 
-<br>
-<p align="left">
-  <a href="https://linkedin.com/in/TE_LINKEDIN_PROFILOD">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+
