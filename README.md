@@ -1,7 +1,8 @@
 # Bálint.
 ### iOS Developer & Student.
 
-> "Designed by Bálint."
+> iOS developer in training, currently focused on building real-world applications and learning modern Apple frameworks.
+
 
 Currently pursuing a BSc in **Computer Science Engineering** (Web & Mobile Specialization).
 Passionate about **SwiftUI**, **Combine**, and clean architecture.
@@ -33,5 +34,17 @@ Passionate about **SwiftUI**, **Combine**, and clean architecture.
 ### Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomY28\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+---
+
+---
+
+### Projects
+
+* 🔹 [Unit Converter](https://github.com/KomY28/Unit-Converter)
+  iOS application for converting length units. Built with SwiftUI.
+
+* 🔹 More apps coming soon...
+
 
 
