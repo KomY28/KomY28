@@ -28,12 +28,10 @@ Passionate about **SwiftUI**, **Combine**, and clean architecture.
 
 ---
 
+
+
 ### Activity
 
-<p align="left">
-  <a href="https://github.com/KomY28">
-    <img src="https://github-readme-stats.vercel.app/api?username=KomY28&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KomY28\&show_icons=true\&theme=github_dark\&hide_border=true)
 
 
