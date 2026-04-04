@@ -38,6 +38,8 @@ Passionate about **SwiftUI**, **Combine**, and clean architecture.
 
 * 🔹 [Unit Converter](https://github.com/KomY28/Unit-Converter)
   iOS application for converting length units. Built with SwiftUI.
+* 🔹 [RockPaperScissors](https://github.com/KomY28/RockPaperScissors-SwiftUI)
+  A fast-paced, brain-training iOS game built entirely with SwiftUI. 
 
 * 🔹 More apps coming soon...
 
