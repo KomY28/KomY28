@@ -25,7 +25,7 @@ Passionate about clean architecture, **Angular**, and the **Apple ecosystem** (S
 
 | Progress | Focus | Status |
 | :--- | :--- | :--- |
-| 🚀 | **Angular - The Complete Guide** | *In Progress* |
+| 🚀 | **Angular - The Complete Guide** | *Done* |
 | 📱 | **Paul Hudson's 100 Days of SwiftUI** | *Paused / Ongoing* |
 | 🎓 | **University Studies** | *Active* |
 
@@ -35,8 +35,12 @@ Passionate about clean architecture, **Angular**, and the **Apple ecosystem** (S
 
 * 🔹 [Café Cash Register](https://github.com/KomY28/Kave-kassza-Angular)
   A mini Angular project built to practice modern state management using Services and Signals.
-* 🔹 [Dashboard Architecture Practice](https://github.com/KomY28/angular-dashboard-practice)
+* 🔹 [Dashboard Architecture Practice](https://github.com/KomY28/angular-dashboard-practice).
   A sandbox project focusing on component isolation, advanced content projection (`<ng-content>`), and CSS Grid layout.
+* 🔹 [Angular-Weather-Api-App](https://github.com/KomY28/angular-weather-app).
+* 🔹 [Angular-Movie-Routing-Api-App](https://github.com/KomY28/angular-movie-app).
+* 🔹 [Angular-Crud-App](https://github.com/KomY28/angular-crud-app).
+* 🔹 [Angular-Cryptotracker-Routing-Api-App](https://github.com/KomY28/crypto-app2).
 
 ### 📱 Mobile Projects (iOS)
 
