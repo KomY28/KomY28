@@ -34,9 +34,7 @@ Passionate about clean architecture, **Angular**, and the **Apple ecosystem** (S
 ### 🌐 Web Projects (Angular)
 
 * 🔹 [Café Cash Register](https://github.com/KomY28/Kave-kassza-Angular)
-  A mini Angular project built to practice modern state management using Services and Signals.
 * 🔹 [Dashboard Architecture Practice](https://github.com/KomY28/angular-dashboard-practice).
-  A sandbox project focusing on component isolation, advanced content projection (`<ng-content>`), and CSS Grid layout.
 * 🔹 [Angular-Weather-Api-App](https://github.com/KomY28/angular-weather-app).
 * 🔹 [Angular-Movie-Routing-Api-App](https://github.com/KomY28/angular-movie-app).
 * 🔹 [Angular-Crud-App](https://github.com/KomY28/angular-crud-app).
@@ -45,9 +43,7 @@ Passionate about clean architecture, **Angular**, and the **Apple ecosystem** (S
 ### 📱 Mobile Projects (iOS)
 
 * 🔹 [Unit Converter](https://github.com/KomY28/Unit-Converter)
-  iOS application for converting length units. Built with SwiftUI.
 * 🔹 [RockPaperScissors](https://github.com/KomY28/RockPaperScissors-SwiftUI)
-  A fast-paced, brain-training iOS game built entirely with SwiftUI. 
 
 ---
 *More apps coming soon...*
